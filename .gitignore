@@ -1,0 +1,5 @@
+.replit
+.cache
+.config
+*.nix
+

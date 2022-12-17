@@ -1,0 +1,29 @@
+.text-center{
+  text-align: center;
+}
+.mx-auto{
+  margin:auto;
+}
+
+.flex{
+  display:flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+  align-items: center;
+}
+.round-buttons{
+  border-radius: 20px;
+  background: black;
+}
+.round-buttons:hover{
+  background: #151414;
+}
+.number-buttons{
+  background: beige;
+}
+.number-buttons:hover{
+  background:#e1e1e2;
+}
